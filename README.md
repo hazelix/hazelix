@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm MrHazel</h1>
 <h3 align="center">A passionate back-end developer from Poland!</h3>
 
-- 🔭 I’m currently working on **FiveM-Pack**
-
-- 📫 How to reach me **contact@mrhazel.xyz**
+- 🔭 I’m currently working on **Panel AntiCheat**
 
 <h3 align="left">Connect with me:</h3>
+**contact@mrhazel.xyz**
 <p align="left">
 </p>
 
